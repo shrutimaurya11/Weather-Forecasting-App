@@ -64,12 +64,3 @@ weather-dashboard-app/
     ├── main.png   # Screenshot of the main screen
     └── weather.png # Screenshot of the weather forecast
 ```
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Punamkumari10/Weather-Forecasting-App/blob/main/License/MIT%20License) file for details.
-
-## Acknowledgements
-
-- [OpenWeatherMap](https://openweathermap.org/) for providing the weather data.
-- Icons used from OpenWeatherMap.
-
